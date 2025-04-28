@@ -28,14 +28,9 @@ Cardiovascular diseases are one of the leading causes of death worldwide. Early 
 ## Machine Learning Models Applied
 
 - Logistic Regression
-- K-Nearest Neighbors (KNN)
 - Support Vector Machine (SVM)
 - Decision Tree Classifier
 - Random Forest Classifier
-- AdaBoost Classifier
-- Gradient Boosting Classifier
-- XGBoost Classifier
-
 ## Steps Performed
 
 1. **Data Loading and Exploration**  
