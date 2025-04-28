@@ -21,9 +21,8 @@ Cardiovascular diseases are one of the leading causes of death worldwide. Early 
 - Python
 - NumPy
 - Pandas
-- Matplotlib, Seaborn, Plotly
+- Matplotlib, Seaborn
 - Scikit-learn
-- XGBoost
 
 ## Machine Learning Models Applied
 
