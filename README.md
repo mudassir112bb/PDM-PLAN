@@ -54,7 +54,7 @@ Cardiovascular diseases are one of the leading causes of death worldwide. Early 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+   git clone https://github.com/mudassir112bb/PDM-PLAN.git
    ```
 2. Install required libraries:
    ```bash
@@ -73,7 +73,7 @@ Alternatively, click the badge above to open and run it directly in Google Colab
 
 ## Author
 
-- **Your Name** - [Your GitHub Profile](https://github.com/YOUR_USERNAME)
+- **Your Name** - https://github.com/mudassir112bb
 
 ---
 
